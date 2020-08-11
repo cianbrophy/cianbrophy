@@ -1,7 +1,7 @@
-### About Me
+### About Me 🌀
 
 ### - Stage Two Computer Science Student @ University College Dublin
-### - Languages: C, Python, C++, Java
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cianbrophy&layout=compact&hide=html" alt="cianbrophy" />
