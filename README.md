@@ -20,4 +20,5 @@
 <a href="https://github.com/cianbrophy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="cianbrophy" height="30" width="30" /></a>
 <a href="mailto:cianbrophy7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="cianbrophy7@gmail.com" height="30" width="30" /></a>
 <a href="https://leetcode.com/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt = "cianbrophy" height="30" width="30"/></a>
+<a href="https://trello.com/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/trello.svg" alt = "cianbrophy" height="30" width="30"/></a>
 </p>
