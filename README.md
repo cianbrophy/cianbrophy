@@ -10,7 +10,7 @@
 
 ![Cian's github stats](https://github-readme-stats.vercel.app/api?username=cianbrophy&show_icons=true&theme=&count_private=true)
 
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<mac>&logoColor=white&color=2f80ed) ![](https://img.shields.io/badge/Editor-XCode-informational?style=flat&logo=<editor>&logoColor=white&color=2f80ed) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<editor>&logoColor=&color=2f80ed) ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<editor>&logoColor=white&color=2f80ed) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<editor>&logoColor=white&color=2f80ed)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apple.svg&logoColor=white&color=2f80ed) ![](https://img.shields.io/badge/Editor-XCode-informational?style=flat&logo=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xcode.svg&logoColor=white&color=2f80ed) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg&logoColor=&color=2f80ed) ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg&logoColor=white&color=2f80ed) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg&logoColor=white&color=2f80ed)
 
 
 ### Social Media 📥
@@ -21,4 +21,5 @@
 <a href="mailto:cianbrophy7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="cianbrophy7@gmail.com" height="30" width="30" /></a>
 <a href="https://leetcode.com/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt = "cianbrophy" height="30" width="30"/></a>
 <a href="https://trello.com/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/trello.svg" alt = "cianbrophy" height="30" width="30"/></a>
+<a href="https://www.codecademy.com/profiles/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codecademy.svg" alt = "cianbrophy" height="30" width="30"/></a>
 </p>
