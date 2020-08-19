@@ -6,9 +6,9 @@
 
 ![](https://komarev.com/ghpvc/?username=cianbrophy&color=2f80ed)
 
-![Cian's github stats](https://github-readme-stats.vercel.app/api?username=cianbrophy&show_icons=true&theme=&count_private=true)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cianbrophy&layout=compact&hide=html" alt="cianbrophy" />
+![Cian's github stats](https://github-readme-stats.vercel.app/api?username=cianbrophy&show_icons=true&theme=&count_private=true)<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cianbrophy&layout=compact&hide=html" alt="cianbrophy" />
 
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apple.svg"&logoColor=white&color=2f80ed) ![](https://img.shields.io/badge/Editor-XCode-informational?style=flat&logo="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xcode.svg"&logoColor=white&color=2f80ed) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg"&logoColor=&color=2f80ed) <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" /> ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg"&logoColor=white&color=2f80ed)
+<img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=white" /> <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=white" />
 
 
 ### Useful Links 📥
