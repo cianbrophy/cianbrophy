@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=cianbrophy&color=2f80ed)
 
-![Cian's github stats](https://github-readme-stats.vercel.app/api?username=cianbrophy&show_icons=true&theme=&count_private=true)<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cianbrophy&layout=compact&hide=html" alt="cianbrophy" />
+![Cian's github stats](https://github-readme-stats.vercel.app/api?username=cianbrophy&show_icons=true&theme=&count_private=true)<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cianbrophy&layout=compact&hide=html" alt="cianbrophy" />
 
 
 ### Useful Links 📥
