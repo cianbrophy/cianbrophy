@@ -18,4 +18,5 @@
 <a href="https://leetcode.com/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt = "cianbrophy" height="30" width="30"/></a>
 <a href="https://trello.com/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/trello.svg" alt = "cianbrophy" height="30" width="30"/></a>
 <a href="https://www.codecademy.com/profiles/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codecademy.svg" alt = "cianbrophy" height="30" width="30"/></a>
+<a href="https://codepen.io/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt = "cianbrophy" height="30" width="30"/></a>
 </p>
