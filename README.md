@@ -12,11 +12,11 @@
 ### Useful Links 📥
 
 <p align="center"> 
-<a href="https://linkedin.com/in/cian-brophy-1aa9201a8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cian-brophy-1aa9201a8" height="30" width="30" /></a>
-<a href="https://github.com/cianbrophy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="cianbrophy" height="30" width="30" /></a>
-<a href="mailto:cianbrophy7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="cianbrophy7@gmail.com" height="30" width="30" /></a>
-<a href="https://leetcode.com/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt = "cianbrophy" height="30" width="30"/></a>
-<a href="https://trello.com/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/trello.svg" alt = "cianbrophy" height="30" width="30"/></a>
-<a href="https://www.codecademy.com/profiles/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codecademy.svg" alt = "cianbrophy" height="30" width="30"/></a>
-<a href="https://codepen.io/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt = "cianbrophy" height="30" width="30"/></a>
+<a href="https://linkedin.com/in/cian-brophy-1aa9201a8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cian-brophy-1aa9201a8" height="40" width="40" /></a>
+<a href="https://github.com/cianbrophy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="cianbrophy" height="40" width="40" /></a>
+<a href="mailto:cianbrophy7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="cianbrophy7@gmail.com" height="40" width="40" /></a>
+<a href="https://leetcode.com/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt = "cianbrophy" height="40" width="40"/></a>
+<a href="https://trello.com/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/trello.svg" alt = "cianbrophy" height="40" width="40"/></a>
+<a href="https://www.codecademy.com/profiles/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codecademy.svg" alt = "cianbrophy" height="40" width="40"/></a>
+<a href="https://codepen.io/cianbrophy" target = "blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt = "cianbrophy" height="40" width="40"/></a>
 </p>
