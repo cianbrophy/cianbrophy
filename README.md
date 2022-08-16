@@ -1,6 +1,6 @@
 ### About Me 🌀
 
-### - Stage Three Computer Science with Data Science Student @ University College Dublin
+### - Stage Four Computer Science with Data Science Student @ University College Dublin
 
 ![Cian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cianbrophy&hide=stars&theme=cobalt2)
 
