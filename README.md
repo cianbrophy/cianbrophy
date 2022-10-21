@@ -2,9 +2,9 @@
 
 ### - Stage Four Computer Science with Data Science Student @ University College Dublin
 
-![Cian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cianbrophy&hide=stars&theme=cobalt2)
+![Cian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cianbrophy&hide=stars&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cianbrophy&theme=cobalt2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cianbrophy&theme=chartreuse-dark)
 
 ### Useful Links 📥
 
