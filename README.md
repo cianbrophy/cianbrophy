@@ -2,11 +2,11 @@
 
 ### - Stage Four Computer Science with Data Science Student @ University College Dublin
 
-![Cian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cianbrophy&hide=stars&theme=chartreuse-dark)
+![Cian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cianbrophy&hide=stars&theme=chartreuse-dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cianbrophy&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cianbrophy&theme=chartreuse-dark&count_private=true)
 
-### Useful Links 📥
+### Links 📥
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/cianbrophy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cian-brophy-1aa9201a8" height="40" width="40" /></a>
