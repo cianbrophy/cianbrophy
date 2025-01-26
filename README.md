@@ -1,10 +1,10 @@
 ### About Me 🌀
 
-### - Stage Four Computer Science with Data Science Student @ University College Dublin
+### - Software Engineer
 
-![Cian's GitHub stats](https://github-readme-stats-6ops98l6l-cians-projects-bdb7f8fc.vercel.app/api?username=cianbrophy&hide=stars&theme=chartreuse-dark&count_private=true)
+![Cian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cianbrophy&hide=stars&theme=chartreuse-dark&count_private=true)
 
-![Top Langs](https://github-readme-stats-6ops98l6l-cians-projects-bdb7f8fc.vercel.app/api/top-langs/?username=cianbrophy&theme=chartreuse-dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cianbrophy&theme=chartreuse-dark&count_private=true)
 
 ### Links 📥
 
